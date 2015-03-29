@@ -42,6 +42,7 @@
 				<field
 					name="login"
 					type="menuitem"
+					published="1"
 					disable="separator,alias,heading,url"
 					label="MOD_LOGIN_FIELD_LOGIN_REDIRECTURL_LABEL"
 					description="MOD_LOGIN_FIELD_LOGIN_REDIRECTURL_DESC" >
@@ -51,6 +52,7 @@
 				<field
 					name="logout"
 					type="menuitem"
+					published="1"
 					disable="separator,alias,heading,url"
 					label="MOD_LOGIN_FIELD_LOGOUT_REDIRECTURL_LABEL"
 					description="MOD_LOGIN_FIELD_LOGOUT_REDIRECTURL_DESC" >
